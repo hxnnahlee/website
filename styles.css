@@ -1,0 +1,28 @@
+body {
+	background-color: #F7DCD6;
+}
+h1 {
+	color: black;
+	font-size: 350%;
+	text-align: center;
+	font-family: 'Bellota';
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 100%;
+}
+h3 {
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 90%;
+}
+p {
+	color: grey;
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;
+}
+.container {
+	text-align: center;
+}
